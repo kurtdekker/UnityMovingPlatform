@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 660645902}
   - component: {fileID: 660645901}
   - component: {fileID: 660645905}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: MovingBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1275,7 +1275,7 @@ MonoBehaviour:
   _maxMoveSpeed: 100
   _movingPlatformMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 256
   _groundRaycastLength: 0.55
   _playerSprite: {fileID: 1985875025}
   highlightColor: {r: 1, g: 0.43237165, b: 0, a: 1}

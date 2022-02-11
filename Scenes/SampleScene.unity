@@ -365,13 +365,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 660645900}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b881208c955771a42a5bea7060b3220e, type: 3}
+  m_Script: {fileID: 11500000, guid: 4a2cb8da354454b92b009c4086cdc1d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toVel: 2500
-  maxVel: 15000
-  maxForce: 40000
-  gain: 5000
+  Velocity: 10
+  Acceleration: 30
   destination:
   - {fileID: 1883124716}
   - {fileID: 154474911}
